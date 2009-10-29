@@ -52,10 +52,10 @@ $sources= array (
     'resolvers' => $root . '_build/resolvers/',
     'data' => $root . '_build/data/',
     'properties' => $root . '_build/properties/',
-    'source_core' => $root.'core/components/formit',
-    'source_assets' => $root.'assets/components/formit',
-    'lexicon' => $root.'core/components/formit/lexicon/',
-    'docs' => $root.'core/components/formit/docs/',
+    'source_core' => $root.'core/components/if',
+    'source_assets' => $root.'assets/components/if',
+    'lexicon' => $root.'core/components/if/lexicon/',
+    'docs' => $root.'core/components/if/docs/',
 );
 unset($root);
 
