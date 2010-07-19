@@ -2,9 +2,9 @@
 Snippet: If
 -----------
 Version: 1.0
-Since: October 29, 2009
-Author: Jason Coward <jason@collabpad.com>
-        Shaun McCormick <shaun@collabpad.com>
+Created: October 29, 2009
+Author: Jason Coward <jason@modx.com>
+        Shaun McCormick <shaun@modx.com>
 
 A simple Conditional snippet.
     

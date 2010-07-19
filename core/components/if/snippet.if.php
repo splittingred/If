@@ -2,8 +2,8 @@
 /**
  * If
  *
- * Copyright 2009 by Jason Coward <jason@collabpad.com> and Shaun McCormick
- * <shaun@collabpad.com>
+ * Copyright 2009-2010 by Jason Coward <jason@modx.com> and Shaun McCormick
+ * <shaun@modx.com>
  *
  * If is free software; you can redistribute it and/or modify it under the terms
  * of the GNU General Public License as published by the Free Software
@@ -23,9 +23,7 @@
 /**
  * Simple if (conditional) snippet
  *
- * @version 1.0
- * @author Jason Coward <jason@collabpad.com>
- * @author Shaun McCormick <shaun@collabpad.com>
+ * @package if
  */
 if (!empty($debug)) {
     print_r($scriptProperties);

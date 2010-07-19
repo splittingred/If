@@ -2,8 +2,8 @@
 /**
  * If
  *
- * Copyright 2009 by Jason Coward <jason@collabpad.com> and Shaun McCormick
- * <shaun@collabpad.com>
+ * Copyright 2009-2010 by Jason Coward <jason@modx.com> and Shaun McCormick
+ * <shaun@modx.com>
  *
  * If is free software; you can redistribute it and/or modify it under the terms
  * of the GNU General Public License as published by the Free Software
@@ -36,7 +36,7 @@ set_time_limit(0);
 define('PKG_ABBR','if');
 define('PKG_NAME','If');
 define('PKG_VERSION','1.0');
-define('PKG_RELEASE','rc1');
+define('PKG_RELEASE','pl');
 
 /* override with your own defines here (see build.config.sample.php) */
 require_once dirname(__FILE__) . '/build.config.php';
