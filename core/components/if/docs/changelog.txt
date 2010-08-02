@@ -1,0 +1,5 @@
+Changelog for If.
+
+If 1.1.0
+====================================
+- Added in_array operator

@@ -84,6 +84,12 @@ if (isset($subject)) {
             case 'null':
                 $output = $subject == null || strtolower($subject) == 'null' ? $then : (isset($else) ? $else : '');
                 break;
+            case 'inarray':
+            case 'in_array':
+            case 'ia':
+                $operand = explode(',',$operand);
+                $output = in_array($subject,$operand) ? $then : (isset($else) ? $else : '');
+                break;
             case '==':
             case '=':
             case 'eq':

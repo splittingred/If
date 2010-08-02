@@ -48,6 +48,7 @@ $properties = array(
             array('name' => 'EMPTY','value' => 'EMPTY'),
             array('name' => 'NOTEMPTY','value' => 'NOTEMPTY'),
             array('name' => 'ISNULL','value' => 'ISNULL'),
+            array('name' => 'INARRAY','value' => 'inarray'),
         ),
         'value' => 'EQ',
     ),
